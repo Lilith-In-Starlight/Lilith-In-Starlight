@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Katie And's github stats](https://github-readme-stats.vercel.app/api?username=lilith-in-starlight&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on Moloch
+- 🔭 I’m currently working on templ8
 - 📫 How to reach me: katie-and@ampersandia.net
 - 😄 Pronouns: she/her, they/them
